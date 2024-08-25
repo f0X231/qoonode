@@ -1,0 +1,19 @@
+{
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWRtaW5ANHBsdXMuY28udGgiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MjM2MzcxMzMsImV4cCI6MTcyMzcyMzUzM30.DmQxkZAilArBthBOT8dvHoo1Gsbb2fVa6kTUYbBVIew",
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWRtaW5ANHBsdXMuY28udGgiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MjM2MzcxMzMsImV4cCI6MTcyMzcyMzUzM30._ty8J_SXpqjjRfI4g4YbWqPaEGdrnCkCnoFoDfJoaXg",
+    "role": "admin"
+}
+
+
+
+{
+    "ipaddress": "192.168.1.1",
+    "username": "admin",
+    "userRole": null,
+    "channel": "website",
+    "page": "home",
+    "url": "http://localhost:8080/home",
+    "action": 'select',
+    "status": 'success',
+    "message": ''
+}
